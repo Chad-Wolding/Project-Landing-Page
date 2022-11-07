@@ -1,0 +1,31 @@
+
+body{
+
+}
+.nav-container{
+   display: flex;
+   align-items: center;
+   background-color: #1f2937;
+}
+.nav-container>div{
+    padding:1em;
+ }
+.leftnav{
+    color: #F9FAF8;
+    font-size: 24px;
+    flex-grow:1;
+}
+
+li{
+    list-style: none;
+}
+
+.rightnav{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+.zone-one{
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-around
+}
