@@ -27,5 +27,10 @@ li{
 .zone-one{
     display: flex;
     background-color: #1f2937;
-    justify-content: space-around
+    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.zone-one-flex-item{
+    width: 300px;
 }
